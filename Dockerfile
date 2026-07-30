@@ -82,7 +82,7 @@ RUN if getent group "${CONTAINER_GROUP_ID}" > /dev/null; then \
            -s /bin/bash \
            "${CONTAINER_USER}"; \
        fi \
-    && mkdir -p /workspace \
+    && mkdir -p /workspace /usr/local/bin \
     && chown -R "${CONTAINER_USER}:${CONTAINER_GROUP}" "${WORKSPACE_ROOT_DIR}" /workspace \
   # Install ant (Anthropic CLI)
   && TARGETOS_=$(echo "${TARGETOS}" | tr '[:upper:]' '[:lower:]') \
