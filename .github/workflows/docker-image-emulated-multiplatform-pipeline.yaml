@@ -16,7 +16,7 @@ on:
         description: 'ANT_CLI_VERSION'
         required: false
         type: string
-        default: '1.23.0'
+        default: '1.25.0'
       CONTAINER_TAG:
         description: 'CONTAINER_TAG (text)'
         required: false
