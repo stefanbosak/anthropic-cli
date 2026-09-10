@@ -17,9 +17,9 @@
 <!-- VERSION_INFO_START -->
 | Component | Version |
 |-----------|---------|
-| **Anthropic CLI** | [`1.31.0`](https://github.com/anthropics/anthropic-cli/releases/tag/v1.31.0) |
+| **Anthropic CLI** | [`1.32.0`](https://github.com/anthropics/anthropic-cli/releases/tag/v1.32.0) |
 
-> 🔄 Last updated: 2026-09-05T01:00:33Z · [Build #15](https://github.com/stefanbosak/anthropic-cli/actions/runs/33934629315)
+> 🔄 Last updated: 2026-09-10T18:31:54Z · [Build #16](https://github.com/stefanbosak/anthropic-cli/actions/runs/34514582116)
 <!-- VERSION_INFO_END -->
 
 ---
